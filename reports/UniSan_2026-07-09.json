@@ -1,0 +1,19 @@
+{
+  "project_name": "UniSan",
+  "generated_at": "2026-07-09T14:52:10.570835",
+  "rag_status": "Green",
+  "facts": {
+    "total_tasks": 383,
+    "active_tasks": 383,
+    "pct_overdue": 0.0,
+    "overdue_count": 0,
+    "blocker_count": 0,
+    "critical_blocked_count": 0,
+    "red_health_ratio": 0.11,
+    "yellow_health_ratio": 0.02,
+    "missing_signals": [
+      "blocker_comments"
+    ]
+  },
+  "reasoning": "UniSan is on track with a Green status: all 383 tasks are active, none are overdue, and there are zero blockers or critical issues. While a small fraction of tasks (11%) are flagged as red, and 2% as yellow, these are not causing any delays or blocking progress. Note that we were unable to evaluate blocker comments for this project, so the Green rating has slightly less supporting evidence than usual."
+}

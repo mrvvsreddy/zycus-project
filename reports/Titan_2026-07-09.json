@@ -1,0 +1,17 @@
+{
+  "project_name": "Titan",
+  "generated_at": "2026-07-09T14:52:04.593356",
+  "rag_status": "Red",
+  "facts": {
+    "total_tasks": 493,
+    "active_tasks": 484,
+    "pct_overdue": 41.7,
+    "overdue_count": 110,
+    "blocker_count": 5,
+    "critical_blocked_count": 0,
+    "red_health_ratio": 0.05,
+    "yellow_health_ratio": 0.0,
+    "missing_signals": []
+  },
+  "reasoning": "Titan is currently Red. 41.7% of tasks with schedule data are overdue by more than 10 days (110 tasks). 5 task(s) show open blockers or comments indicating a delay. 5% of individually-tracked tasks are already flagged Red at the task level, which is roughly consistent with this overall status. [LLM explanation unavailable: 'NoneType' object has no attribute 'strip']"
+}
